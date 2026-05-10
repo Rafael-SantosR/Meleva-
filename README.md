@@ -54,6 +54,6 @@ A API estará disponível em `http://localhost:8080`
 
 ## 👨‍💻 Autor
 
-**Rafael** — Estudante de ADS na FATEC SJC
+**Rafael** — Estudante de Banco de dados na FATEC SJC
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seulinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafaels-rodrigues/))
