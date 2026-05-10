@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: meleva-db
+    environment:
+      POSTGRES_DB: meleva
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - meleva_data:/var/lib/postgresql/data
+
+volumes:
+  meleva_data:
